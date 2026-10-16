@@ -1,0 +1,2 @@
+requests>=2.31
+# On a compatible Raspberry Pi, install RPi.GPIO for physical sensor mode.
